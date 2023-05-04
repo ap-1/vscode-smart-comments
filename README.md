@@ -1,8 +1,11 @@
 # Smart Comments for VS Code
 
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/ap-1.smart-comments)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ap-1.smart-comments)
+
 ## What is this?
 
-This extension combines `comment` and `blockComment` into oned command. It will comment a line if no text is selected, otherwise it will apply a block comment to the selection. Selecting multiple lines will now use block comments instead of multiple line comments.
+This extension combines `comment` and `blockComment` into one command. It will comment a line if no text is selected, otherwise it will apply a block comment to the selection. Selecting multiple lines will now use block comments instead of multiple line comments.
 
 In addition, you no longer need to select all of the text inside a block comment to uncomment it. The extension will uncomment it if the cursor is anywhere inside the comment.
 
